@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  UIBezierPathAddClipExampleForLI
+//
+//  Created by Volodymyr Andriienko on 3/10/19.
+//  Copyright © 2019 VAndrJ. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define var __auto_type
+#define let __auto_type const
+
+#import "UIImage+Drawing.h"
+
+#endif /* PrefixHeader_pch */
